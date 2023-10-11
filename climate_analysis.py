@@ -1,5 +1,5 @@
 ''' Climate analysis tools '''
-
+# TODO(smangham): Add call to process rainfall
 import sys
 import temp_conversion
 import signal
